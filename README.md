@@ -1,2 +1,2 @@
 # NoNameProject
-My game project
+My RPG game project
