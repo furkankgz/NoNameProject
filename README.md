@@ -1,7 +1,7 @@
 # NoNameProject
 My RPG game project
 
-For assets... 
-Player -> mixamo.com
-Environment asset -> unity asset store
-sounds -> freesound.com
+For assets... <br>
+Player -> mixamo.com <br>
+Environment asset -> unity asset store <br>
+sounds -> freesound.com <br>
